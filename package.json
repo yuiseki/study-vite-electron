@@ -31,7 +31,7 @@
     "@vue/test-utils": "2.2.6",
     "cross-env": "7.0.3",
     "dts-for-context-bridge": "0.7.1",
-    "electron": "16.0.5",
+    "electron": "22.0.2",
     "electron-builder": "22.14.13",
     "electron-devtools-installer": "3.2.0",
     "eslint": "8.30.0",
